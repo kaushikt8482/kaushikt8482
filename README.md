@@ -20,18 +20,56 @@ ___
 * Table Name
   
   |Name|Role|
-  |--|--|
-  |Kaushik|Trainer|
-  |Abhijeet|Tech Writer|
+  |:--|:--|
+  |*Kaushik*|**Trainer** &#124; Consultant &#124; Coach &#124; Layman|
+  |*Abhijeet*|**Tech Writer** &#124;Coder&#124;TechEnth|
 
 
+ - [x] List item1
+ - [x] List item 2
+ - [ ] List item 3
 
+This is my first footnote[^1]:
 
+This is my second footnote[^heyfootnote]:
+
+asdf
+
+asdf
+
+asdf
+
+adf
+
+asdf
+
+adsf, Hello Class
+
+Hello World
+
+[^1]:This is the actual footnote
+[^heyfootnote]: This is the actual hey footnote
+and I am a bit lengthier one 
+
+enough of hello world come out of footnote mode
+
+H<sub>2</sub>O
+
+Please print the cube of x represented as X<sup>3</sup>
+
+This is something <mark>important</mark>
+
+This needs to be <s>strikedout</s>
+
+I am bit worried about the time and I will ensure not to miss out on anything :🤚:
 
 
 
 <!--
 **kaushikt8482/kaushikt8482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
