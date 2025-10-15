@@ -17,13 +17,12 @@ ___
 \* This is an important Line 
 
 \* Note that this backspace is used to bypass many of the symbols like _ [] <> () # + - 
-
-* Making Table
-
-|Name|Role|
-|--|--|
-|Kaushik|Trainer|
-|Abhijeet|Tech Writer|
+* Table Name
+  
+  |Name|Role|
+  |--|--|
+  |Kaushik|Trainer|
+  |Abhijeet|Tech Writer|
 
 
 
