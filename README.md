@@ -1,3 +1,29 @@
+My Profile:
+-------------------------------------
+-------------------------------------
+
+Hey hi from me ✋ to everyone
+
+My Badges:
+![markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=blue)
+
+![Static Badge](https://img.shields.io/badge/html-FHFHFH)
+
+I can be found at 
+- [mywebsite](https://www.simpliroots.com)
+
+- [![Linkedin](https://img.shields.io/badge/MyProfle-green?style=for-the-badge&logo=indeed&logoColor=blue)](https://www.simpliroots.com)
+
+
+
+
+
+
+
+
+---------------
+
+
 This is my html code
 ```
 <html>
